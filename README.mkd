@@ -26,3 +26,16 @@ Your app has a new component: HousingLocationComponent and it displays a message
 ```bash
 ng generate component housingLocation --standalone --inline-template --skip-tests
 ```
+
+# Lesson 4
+- Your app has a new interface that it can use as a data type.
+- Your app has an instance of the new interface with sample data.
+
+
+### Create a new Angular interface
+
+#### [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) are custom data types for your app. (Typescript)
+
+```bash
+ng generate interface housinglocation
+```

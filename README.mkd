@@ -1,10 +1,28 @@
 # Lesson 1
-#### Hello world
+Hello world
+
+```bash
+ng serve
+```
 
 # Lesson 2
-#### Create the HomeComponent
+Your app has a new component: HomeComponent.
 
-[ng generate component](https://angular.io/cli/generate#component-command)
+### Create the HomeComponent
+
+- [ng generate component](https://angular.io/cli/generate#component-command)
 ```bash
 ng generate component home --standalone --inline-template --skip-tests
+```
+- [Component reference](https://angular.io/api/core/Component)
+- [Angular components overview](https://angular.io/guide/component-overview)
+
+# Lesson 3
+Your app has a new component: HousingLocationComponent and it displays a message confirming that the component was added to your application.
+
+### Create the HousingLocationComponent
+
+- [ng generate component](https://angular.io/cli/generate#component-command)
+```bash
+ng generate component housingLocation --standalone --inline-template --skip-tests
 ```

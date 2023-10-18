@@ -1,0 +1,10 @@
+# Lesson 1
+#### Hello world
+
+# Lesson 2
+#### Create the HomeComponent
+
+[ng generate component](https://angular.io/cli/generate#component-command)
+```bash
+ng generate component home --standalone --inline-template --skip-tests
+```

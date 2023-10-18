@@ -36,6 +36,8 @@ ng generate component housingLocation --standalone --inline-template --skip-test
 
 #### [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) are custom data types for your app. (Typescript)
 
+- [ng generate interface](https://angular.io/cli/generate#interface-command)
+
 ```bash
 ng generate interface housinglocation
 ```
